@@ -1,5 +1,3 @@
-
-
 const inputBar = document.getElementById("input-bar");
 const listContainer = document.getElementById("list-container");
 
